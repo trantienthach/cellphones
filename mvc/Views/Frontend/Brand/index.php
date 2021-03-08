@@ -11,7 +11,6 @@
 <body>
     <div id="dashboardApp" class="showAside position_relative">
         <?php {{ view("Inc.header"); }} ?>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae consequatur eligendi dolorum sit eius, eos ducimus, incidunt libero vero quasi unde temporibus impedit ut? Eveniet, tempore! Eum similique tenetur eos.</p>
         <?php {{ view("Inc.sidebar"); }} ?>
         <main class="main_content">
             <div class="page_header">
